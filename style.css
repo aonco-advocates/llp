@@ -7,7 +7,7 @@ body {
 .bg-image {
   width: 100%;
   height: 70vh;
-  background: url("Img/aon.llp.png");
+  background: url("assets/aon.llp.png");
   background-position: center;
   background-attachment: fixed;
   background-size: 160%;
