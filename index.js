@@ -12,3 +12,6 @@ function facebook()
 {
 	window.location.href="https://m.facebook.com/100084549067130";
 }
+function download(){
+	window.location.href="https://drive.google.com/file/d/1SOLZ4yBmSFMx6m3jLaAvyOmGLyRHaZ10/view?usp=drivesdk";
+}
